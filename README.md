@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi 👋 My name is Austin Corwin
+=====================================================================================================================================
 
-<!--
-**austin-corwin/austin-corwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced Software Engineer Looking for New Opportunities
+-----------------------------------------------------------
 
-Here are some ideas to get you started:
+### About Me
+I am a software engineer with over 4 years of professional experience developing and maintaining high-quality, user-centric web and mobile applications. My career began with a passion for problem-solving and has evolved into a deep expertise in building scalable, performant, and maintainable software. I'm always hungry to learn something new and improve myself. My journey as a developer is fueled by continuous learning, hands-on practice, and the unique perspective I bring to technical challenges, drawing from my background in marketing. 
+* 🌍  I'm based in Fort Collins, CO
+* ✉️  You can contact me at [austincorwin5@gmail.com](mailto:austincorwin5@gmail.com)
+* 🧠  I'm learning Svelte
+* 🤝  I'm open to collaborating on any problem you need a solution for
+* ⚡  I'm passionate about music and love to explore new places on my bike
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+Currently, I am looking for new opportunities. At my previous employer, I worked as a Software Engineer II, where I led cross-functional teams in building and enhancing multiple Next.js web applications and an Expo mobile app. I thrived in a collaborative environment where I could contribute to all software development life cycle phases, from ideation to deployment. I worked closely with back-end teams, UI/UX designers, and stakeholders to deliver high-quality, user-friendly products that aligned with business goals. My experience with GraphQL, TypeScript, and Redux has allowed me to architect applications that are both scalable and easy to maintain. I've also had the opportunity to manage and mentor junior engineers, helping them grow in their careers and ensuring the team's overall success. I believe in fostering a supportive, learning-oriented environment where engineers can improve their skills while delivering impactful results. 
+
+### My Approach
+What sets me apart is my ability to approach technical problems from a creative perspective, a skill honed during my previous career in marketing. I have a unique ability to blend technical expertise with an understanding of user needs, business goals, and market trends. This combination allows me to think outside the box when solving problems, often finding innovative solutions that improve user experience and developer workflows. For example, I led the migration of disparate applications into a unified monorepo at BrewLogix, improving code health, streamlining the development process, and increasing the team's efficiency. I also designed and developed an interactive map feature using Mapbox and a custom GraphQL API, working with back-end teams to optimize data accuracy and deliver a seamless user experience. With a foundation in both business and technology, I am driven by the desire to solve complex problems and create products that have a meaningful impact. I'm always looking for new challenges that allow me to blend creativity with technical skills, and I'm excited about the possibilities in both software engineering and the broader tech industry. If you're interested in collaborating or discussing how I can help your project succeed, feel free to connect with me!
+
+### Skills
+
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/austin-corwin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/austin-corwin-85aa06126/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
